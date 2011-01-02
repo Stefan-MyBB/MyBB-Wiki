@@ -11,8 +11,8 @@ EN: Upload all directories and the file wiki.php into your MyBB installation.
 DE: Lade alle Ordner und die Datei wiki.php in deine MyBB-Installation.
     Installiere das Plugin im ACP und aktiviere es.
     Die Datei /inc/wiki/config.php muss beschreibbar sein.
-    Füge diesen Link an der gewünschten Stelle ein: *URL zum Forum*/wiki.php
+    FÃ¼ge diesen Link an der gewÃ¼nschten Stelle ein: *URL zum Forum*/wiki.php
 
--- Contains / Enthält --
+-- Contains / EnthÃ¤lt --
 - Silk Icons (http://www.famfamfam.com/lab/icons/silk/)
 - DifferenceEngine (http://www.mediawiki.org/)
